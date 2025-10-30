@@ -1,4 +1,4 @@
-## Hi, I’m [Your Name] 👋
+## Hi, I’m Hemanth  👋
 
 I’m an automotive engineer passionate about electric vehicles, embedded systems, and AI in automotive.
 
@@ -13,4 +13,4 @@ I’m an automotive engineer passionate about electric vehicles, embedded system
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: youremail@example.com
+- Email: hemanthkumararigela99@gmail.com
