@@ -12,5 +12,5 @@ I’m an automotive engineer passionate about electric vehicles, embedded system
 - [Car Brand Recognition](https://github.com/yourusername/car-brand-recognition)
 
 ## Contact
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: hemanthkumararigela99@gmail.com
+(https://www.linkedin.com/in/hemanth-kumar-arigela/)
+hemanthkumararigela99@gmail.com
