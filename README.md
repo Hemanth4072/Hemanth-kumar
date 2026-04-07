@@ -47,10 +47,4 @@ curl -X PUT http://localhost:8080/api/students/1 \
 curl -X DELETE http://localhost:8080/api/students/1
 ```
 
-## SQL Console (H2)
-
-- URL: `http://localhost:8080/h2-console`
-- JDBC URL: `jdbc:h2:mem:studentdb`
-- User: `sa`
-- Password: *(empty)*
 
