@@ -6,6 +6,12 @@ A simple CRUD API for managing students using:
 - Spring Data JPA
 - H2 SQL Database
 
+## Progress Log
+
+### Day 2 Update
+- Added a project progress section to track daily work.
+- Documented H2 database console access for easier local debugging.
+
 ## Run the app
 
 ```bash
@@ -13,6 +19,13 @@ mvn spring-boot:run
 ```
 
 The app starts at: `http://localhost:8080`
+
+### H2 Console
+
+- URL: `http://localhost:8080/h2-console`
+- JDBC URL: `jdbc:h2:mem:testdb`
+- Username: `sa`
+- Password: *(leave blank)*
 
 ## Student CRUD APIs
 
@@ -46,5 +59,4 @@ curl -X PUT http://localhost:8080/api/students/1 \
 ```bash
 curl -X DELETE http://localhost:8080/api/students/1
 ```
-
 
